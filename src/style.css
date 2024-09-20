@@ -1,1 +1,13 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-image: url(https://cdn.pixabay.com/photo/2023/07/19/12/40/trees-8136806_1280.png);
+  background-repeat: no-repeat;
+  background-size: 100vw 100vh;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+  -webkit-box-shadow: 0px 0px 25px 20px rgba(0, 0, 0, 1);
+  -moz-box-shadow: 0px 0px 25px 20px rgba(0, 0, 0, 1);
+  box-shadow: 0px 0px 25px 20px rgba(0, 0, 0, 1);
+}
